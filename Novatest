@@ -1,0 +1,6 @@
+git clone https://github.com/ilJet/repository-Nova1.git
+cd repository-Nova1
+echo "// Nova1 demo project" > README.md
+git add .
+git commit -m "commit iniziale con README"
+git push origin main
