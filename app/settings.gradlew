@@ -7,3 +7,4 @@ pluginManagement {
 }
 
 rootProject.name = "applicazione"
+"Sposto impostazioni.gradlew nella radice"
